@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MichlIV
 - 👀 I’m pretty much a beginner at coding, and very interested in blockchain and cryptocurrencies (involved for about 4yrs)
-- 👀 Able to offer support on strategy, governance, etc., and offer multiple industries knowledge to interesting initiatives.
+- 👀 Able to offer support on strategy, growth, governance, etc., and draw on multiple industries knowledge.
 - 🌱 I’m currently learning Haskell and planning to develop a portfolio (various languages) - let me know if you can help
 - 💞️ I’m also seeking mentors who can help with Haskell, Solidity, Python, and general backend tech
 - 📫 I can be reached by e-mail @ michliv@protonmail.com
